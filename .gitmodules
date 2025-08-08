@@ -10,3 +10,6 @@
 [submodule "fish"]
 	path = fish
 	url = https://github.com/benraz123/fish-config
+[submodule "foot"]
+	path = foot
+	url = https://github.com/benraz123/footterm-config
