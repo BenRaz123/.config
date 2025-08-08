@@ -13,3 +13,6 @@
 [submodule "foot"]
 	path = foot
 	url = https://github.com/benraz123/footterm-config
+[submodule "qutebrowser"]
+	path = qutebrowser
+	url = https://github.com/benraz123/qutebrowser-config
