@@ -1,0 +1,6 @@
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/benraz123/nvim-configs
+[submodule "sway"]
+	path = sway
+	url = https://github.com/benraz123/swayconfig
