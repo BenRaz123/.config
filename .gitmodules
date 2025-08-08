@@ -4,3 +4,6 @@
 [submodule "sway"]
 	path = sway
 	url = https://github.com/benraz123/swayconfig
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/benraz123/tmux-config
